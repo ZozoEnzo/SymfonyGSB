@@ -1,0 +1,3 @@
+gsbgsb1_symfony_homepage:
+    path:     /
+    defaults: { _controller: GSBGSB1SymfonyBundle:Default:index }
