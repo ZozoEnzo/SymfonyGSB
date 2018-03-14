@@ -1,3 +1,7 @@
+gsbgsb1_symfony:
+    resource: "@GSBGSB1SymfonyBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
